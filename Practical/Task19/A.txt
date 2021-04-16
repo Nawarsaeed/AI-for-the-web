@@ -1,0 +1,5 @@
+internet web	some description
+internet	some description
+web	some description
+dator	some description
+dator mus	some description
